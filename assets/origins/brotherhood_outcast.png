@@ -1,0 +1,683 @@
+
+<!doctype html>
+<html lang="ru-ru" dir="ltr">
+	<head>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta charset="utf-8">
+	<meta name="description" content="Исчерпывающая информация на русском языке по RPG игре Fallout: The Roleplaying  2D20 от Modiphius  ">
+	<meta name="generator" content="Helix Ultimate - The Most Popular Joomla! Template Framework.">
+	<title>Изгой Братства - Настольная ролевая игра Fallout (2D20): The Roleplaying Game на русском</title>
+	<link href="/images/stsmall507x507-pad600x600f8f8f8.jpg" rel="icon" type="image/vnd.microsoft.icon">
+	<link href="https://www.fallout-2d20.ru/component/finder/search?format=opensearch&amp;Itemid=172" rel="search" title="OpenSearch Настольная ролевая игра Fallout (2D20): The Roleplaying Game на русском" type="application/opensearchdescription+xml">
+	<link href="/media/vendor/awesomplete/css/awesomplete.css?1.1.5" rel="stylesheet" />
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css?a436bee1e5ae414f98db7ca13adfd7c0" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css?a436bee1e5ae414f98db7ca13adfd7c0" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/plugins/system/helixultimate/assets/css/system-j4.min.css" rel="stylesheet" />
+	<link href="/media/system/css/joomla-fontawesome.min.css?8daf133190c387a118bf930b2fa76eea" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/template.css" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/presets/default.css" rel="stylesheet" />
+	<style>.sp-page-builder .page-content #section-id-eda4035c-b3d8-4592-8f2a-eebcb6894e12{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-eda4035c-b3d8-4592-8f2a-eebcb6894e12{padding-top:px;padding-right:0px;padding-bottom:px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4{max-width:100%;flex-basis:100%;}@media (max-width:1199.98px) {#column-wrap-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4{max-width:100%;flex-basis:100%;}}@media (max-width:991.98px) {#column-wrap-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4{max-width:100%;flex-basis:100%;}}@media (max-width:767.98px) {#column-wrap-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4{max-width:100%;flex-basis:100%;}}#sppb-addon-2f748e2f-e8be-4f12-a4c8-1da78f8b7282{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-17478172-bbbd-4536-ab74-bed7960962a2{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-17478172-bbbd-4536-ab74-bed7960962a2{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303{max-width:100%;flex-basis:100%;}@media (max-width:1199.98px) {#column-wrap-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303{max-width:100%;flex-basis:100%;}}@media (max-width:991.98px) {#column-wrap-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303{max-width:100%;flex-basis:100%;}}@media (max-width:767.98px) {#column-wrap-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303{max-width:100%;flex-basis:100%;}}#sppb-addon-2e3bfaa1-e394-43c6-8253-0e47567fae01{box-shadow:0 0 0 0 #FFFFFF;}#sppb-addon-2e3bfaa1-e394-43c6-8253-0e47567fae01 .sppb-empty-space{height:40px;}.sp-page-builder .page-content #section-id-f0b9bd74-58b3-4c98-bd18-3550b62e5ec3{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-f0b9bd74-58b3-4c98-bd18-3550b62e5ec3{padding-top:25px;padding-right:0px;padding-bottom:15px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.sp-page-builder .page-content #section-id-f0b9bd74-58b3-4c98-bd18-3550b62e5ec3 .sppb-section-title .sppb-title-heading {text-align:center;}#column-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79{max-width:50%;flex-basis:50%;}@media (max-width:1199.98px) {#column-wrap-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79{max-width:50%;flex-basis:50%;}}@media (max-width:991.98px) {#column-wrap-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79{max-width:50%;flex-basis:50%;}}@media (max-width:767.98px) {#column-wrap-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79{max-width:100%;flex-basis:100%;}}.sp-page-builder .page-content #section-id-fc51601c-51d6-410f-bd44-9d0d305d1df0{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-fc51601c-51d6-410f-bd44-9d0d305d1df0{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-78cc642b-fa50-41a8-a573-881059b6dd78{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-78cc642b-fa50-41a8-a573-881059b6dd78{max-width:100%;flex-basis:100%;}@media (max-width:1199.98px) {#column-wrap-id-78cc642b-fa50-41a8-a573-881059b6dd78{max-width:100%;flex-basis:100%;}}@media (max-width:991.98px) {#column-wrap-id-78cc642b-fa50-41a8-a573-881059b6dd78{max-width:100%;flex-basis:100%;}}@media (max-width:767.98px) {#column-wrap-id-78cc642b-fa50-41a8-a573-881059b6dd78{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-78cc642b-fa50-41a8-a573-881059b6dd78{max-width:100%;flex-basis:100%;}}#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er{box-shadow:0 0 0 0 #FFFFFF;}#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er .sppb-panel.sppb-panel-custom{background:#FFFFFF;border-color:#D5D7E0;border-style:solid; border-width:1px;border-radius:4px;}#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er .sppb-panel-custom .sppb-panel-body{border-top-style:solid; border-top-width:1px;border-top-color:#D5D7E0;}#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er .sppb-panel-group .sppb-panel.sppb-panel-custom:not(:last-child){margin-bottom:10px;}#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er .sppb-panel-custom .active .sppb-accordion-icon-wrap{transform:rotate(0deg);}#column-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af{max-width:50%;flex-basis:50%;}@media (max-width:1199.98px) {#column-wrap-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af{max-width:50%;flex-basis:50%;}}@media (max-width:991.98px) {#column-wrap-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af{max-width:50%;flex-basis:50%;}}@media (max-width:767.98px) {#column-wrap-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af{max-width:100%;flex-basis:100%;}}.sp-page-builder .page-content #section-id-d4da0810-1133-447f-bb8e-0e65d64c6af9{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-d4da0810-1133-447f-bb8e-0e65d64c6af9{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}@media (max-width:1199.98px) {.sp-page-builder .page-content #section-id-d4da0810-1133-447f-bb8e-0e65d64c6af9{padding-top:5px;padding-right:0px;padding-bottom:5px;padding-left:0px;}}@media (max-width:991.98px) {.sp-page-builder .page-content #section-id-d4da0810-1133-447f-bb8e-0e65d64c6af9{padding-top:5px;padding-right:0px;padding-bottom:5px;padding-left:0px;}}#column-id-19d61747-25b2-4b58-a4ad-6ad719d50389{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-19d61747-25b2-4b58-a4ad-6ad719d50389{max-width:100%;flex-basis:100%;}@media (max-width:1199.98px) {#column-wrap-id-19d61747-25b2-4b58-a4ad-6ad719d50389{max-width:100%;flex-basis:100%;}}@media (max-width:991.98px) {#column-wrap-id-19d61747-25b2-4b58-a4ad-6ad719d50389{max-width:100%;flex-basis:100%;}}@media (max-width:767.98px) {#column-wrap-id-19d61747-25b2-4b58-a4ad-6ad719d50389{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-19d61747-25b2-4b58-a4ad-6ad719d50389{max-width:100%;flex-basis:100%;}}#sppb-addon-18oeAQhA3OghWhqkJKYO7{box-shadow:0 0 0 0 #FFFFFF;}#sppb-addon-18oeAQhA3OghWhqkJKYO7 .sppb-panel.sppb-panel-custom{background:#FFFFFF;border-color:#D5D7E0;border-style:solid; border-width:1px;border-radius:4px;}#sppb-addon-18oeAQhA3OghWhqkJKYO7 .sppb-panel-custom .sppb-panel-body{border-top-style:solid; border-top-width:1px;border-top-color:#D5D7E0;}#sppb-addon-18oeAQhA3OghWhqkJKYO7 .sppb-panel-group .sppb-panel.sppb-panel-custom:not(:last-child){margin-bottom:10px;}#sppb-addon-18oeAQhA3OghWhqkJKYO7 .sppb-panel-custom .active .sppb-accordion-icon-wrap{transform:rotate(0deg);}.sp-page-builder .page-content #section-id-7106b6ed-deeb-4e8a-a716-bf2f3f2d7edb{box-shadow:0px 0px 0px 0px #fff;}.sp-page-builder .page-content #section-id-7106b6ed-deeb-4e8a-a716-bf2f3f2d7edb{padding-top:25px;padding-right:0px;padding-bottom:25px;padding-left:0px;margin-top:0px;margin-right:10%;margin-bottom:0px;margin-left:10%;}@media (max-width:575.98px) {.sp-page-builder .page-content #section-id-7106b6ed-deeb-4e8a-a716-bf2f3f2d7edb{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}#column-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6{max-width:100%;flex-basis:100%;}@media (max-width:1199.98px) {#column-wrap-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6{max-width:100%;flex-basis:100%;}}@media (max-width:991.98px) {#column-wrap-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6{max-width:100%;flex-basis:100%;}}@media (max-width:767.98px) {#column-wrap-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6{max-width:100%;flex-basis:100%;}}#sppb-addon-5c5de147-0ba9-48b2-9af3-f6b4023c6377{box-shadow:0 0 0 0 #FFFFFF;}#sppb-addon-5c5de147-0ba9-48b2-9af3-f6b4023c6377 .sppb-addon-title{text-transform:uppercase;}</style>
+	<style>.article .article-header h2 a {
+    color: #000 !important;
+}
+.com-content #sp-main-body { padding: 30px 0; }
+
+.dotted-tooltip { position: relative; display: inline-block; cursor: help; /* Изменяет курсор на "вопросительный знак" */ border-bottom: 1px dotted #999; /* Серое точечное подчёркивание */ color: inherit; /* Сохраняет цвет текста как у родителя */ }
+
+.tooltip-text { visibility: hidden; width: 310px; background-color: #333; color: #fff; text-align: center; border-radius: 4px; padding: 8px; position: absolute; z-index: 100; bottom: 100%; /* Позиция над текстом */ left: 90%; transform: translateX(-90%); opacity: 0; transition: opacity 0.3s;
+font-size: 13px; /* Уменьшаем размер шрифта до 11 px */
+  line-height: 1.1; /* Уменьшаем межстрочный интервал до 1 */ } 
+.dotted-tooltip:hover .tooltip-text { visibility: visible; opacity: 1; }
+
+@media (min-width: 769px) {
+    .tooltip-text { visibility: hidden; width: 500px; background-color: #333; color: #fff; text-align: center; border-radius: 4px; padding: 8px; position: absolute; z-index: 100; bottom: 100%; /* Позиция над текстом */ left: 85%; transform: translateX(-85%); opacity: 0; transition: opacity 0.3s; font-size: 14px; /* Уменьшаем размер шрифта до 11 px */
+  line-height: 1.2; /* Уменьшаем межстрочный интервал до 1 */ }
+
+.article-list .article {
+    border: 1px solid #9b9999;
+}
+a:hover {
+  text-decoration: underline;
+}</style>
+	<style>.logo-image {height:60px;}.logo-image-phone {height:60px;}</style>
+	<style>@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+	<style>#sp-section-1{ background-image:url("/images/main-background.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%;padding:30px 0px 20px 0px; }</style>
+	<style>#sp-section-2{ background-image:url("/images/main-background.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%;padding:10px 0px;margin:0px 0px 0px 0px; }</style>
+	<style>#sp-main-body{ background-image:url("/images/main-background.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
+	<style>@media(min-width: 1400px) {.sppb-row-container { max-width: 1400px; }}</style>
+	<style>:root {--sppb-topbar-bg-color: #333333;--sppb-topbar-text-color: #aaaaaa;--sppb-header-bg-color: #000000;--sppb-logo-text-color: #2b2b2b;--sppb-menu-text-color: #fee9a6;--sppb-menu-text-hover-color: #000000;--sppb-menu-text-active-color: #000000;--sppb-menu-dropdown-bg-color: #ffffff;--sppb-menu-dropdown-text-color: #252525;--sppb-menu-dropdown-text-hover-color: #fee9a6;--sppb-menu-dropdown-text-active-color: #fee9a6;--sppb-offcanvas-menu-icon-color: #ffc500;--sppb-offcanvas-menu-bg-color: #4f4b4b;--sppb-offcanvas-menu-items-and-items-color: #fee9a6;--sppb-offcanvas-menu-active-menu-item-color: #ffc500;--sppb-text-color: #000000;--sppb-link-color: #b15b23;--sppb-link-hover-color: #042615;--sppb-footer-bg-color: #171717;--sppb-footer-text-color: #ffffff;--sppb-footer-link-color: #a2a2a2;--sppb-footer-link-hover-color: #ffffff}</style>
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"RLTA_BUTTON_SCROLL_LEFT":"Scroll buttons to the left","RLTA_BUTTON_SCROLL_RIGHT":"Scroll buttons to the right","MOD_FINDER_SEARCH_VALUE":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0442\u0435\u043a\u0441\u0442...","JLIB_JS_AJAX_ERROR_OTHER":"\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 JSON. \u041a\u043e\u0434 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f HTTP %s.","JLIB_JS_AJAX_ERROR_PARSE":"\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430 \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u043f\u0440\u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 JSON:<br><code style=\"color:inherit;white-space:pre-wrap;padding:0;margin:0;border:0;background:inherit;\">%s<\/code>","ERROR":"\u041e\u0448\u0438\u0431\u043a\u0430","MESSAGE":"\u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","NOTICE":"\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435","WARNING":"\u041f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435","JCLOSE":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","JOK":"\u041e\u043a","JOPEN":"\u041e\u0442\u043a\u0440\u044b\u0442\u044c"},"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"finder-search":{"url":"\/component\/finder\/?task=suggestions.suggest&format=json&tmpl=component&Itemid=172"},"system.paths":{"root":"","rootFull":"https:\/\/www.fallout-2d20.ru\/","base":"","baseFull":"https:\/\/www.fallout-2d20.ru\/"},"csrf.token":"4361e07741947d60d951fa1bb5ee8b28"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be" defer nomodule></script>
+	<script src="/media/com_finder/js/finder-es5.min.js?e6d3d1f535e33b5641e406eb08d15093e7038cc2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/showon.min.js?f79c256660e2c0ca2179cf7f3168ea8143e1af82" type="module"></script>
+	<script src="/media/vendor/awesomplete/js/awesomplete.min.js?1.1.5" defer></script>
+	<script src="/media/com_finder/js/finder.min.js?a2c3894d062787a266d59d457ffba5481b639f64" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js?a436bee1e5ae414f98db7ca13adfd7c0"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js?a436bee1e5ae414f98db7ca13adfd7c0" defer></script>
+	<script src="/components/com_sppagebuilder/assets/js/addons/text_block.js"></script>
+	<script src="/templates/shaper_helixultimate/js/main.js"></script>
+	<script src="/templates/shaper_helixultimate/js/lazysizes.min.js"></script>
+	<script>rltaSettings = {"switchToAccordions":true,"switchBreakPoint":576,"buttonScrollSpeed":5,"addHashToUrls":true,"rememberActive":false,"wrapButtons":false}</script>
+	<script>jQuery(document).ready(function($){'use strict';
+				if('hide' === 'hide') {
+					$( '#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er' + ' .sppb-addon-accordion .sppb-panel-heading').removeClass('active');
+				} else {
+					$( '#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er' + ' .sppb-addon-accordion .sppb-panel-heading').addClass('active');
+				}
+				$( '#sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er' + ' .sppb-addon-accordion .sppb-panel-collapse').hide();
+			});</script>
+	<script>jQuery(document).ready(function($){'use strict';
+				if('hide' === 'hide') {
+					$( '#sppb-addon-18oeAQhA3OghWhqkJKYO7' + ' .sppb-addon-accordion .sppb-panel-heading').removeClass('active');
+				} else {
+					$( '#sppb-addon-18oeAQhA3OghWhqkJKYO7' + ' .sppb-addon-accordion .sppb-panel-heading').addClass('active');
+				}
+				$( '#sppb-addon-18oeAQhA3OghWhqkJKYO7' + ' .sppb-addon-accordion .sppb-panel-collapse').hide();
+			});</script>
+	<script>template="shaper_helixultimate";</script>
+	<script>
+				document.addEventListener("DOMContentLoaded", () =>{
+					window.htmlAddContent = window?.htmlAddContent || "";
+					if (window.htmlAddContent) {
+        				document.body.insertAdjacentHTML("beforeend", window.htmlAddContent);
+					}
+				});
+			</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(90844052, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img data-src="https://mc.yandex.ru/watch/90844052" style="position:absolute; left:-9999px;" alt=""  class="lazyload" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<meta name="yandex-verification" content="6af5a3226c81d798" />
+					<style>.container, .sppb-row-container { max-width: 1400px; }</style>
+			</head>
+	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-367 ru-ru ltr layout-fluid offcanvas-init offcanvs-position-right">
+
+		
+		
+		<div class="body-wrapper">
+			<div class="body-innerwrapper">
+								
+<section id="sp-section-1" >
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-menu" class="col-lg-12 "><div class="sp-column "><a id="offcanvas-toggler" aria-label="Menu"  class="offcanvas-toggler-right" href="#"><div class="burger-icon" aria-hidden="true"><span></span><span></span><span></span></div></a></div></div></div>
+							</div>
+			</div>
+			
+	</section>
+
+<section id="sp-section-2" class=" d-none d-sm-none d-md-none d-lg-none d-xl-block">
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-topmenu" class="col-lg-12 d-none d-sm-none d-md-none d-lg-none d-xl-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="174">
+	<div class="page-content">
+		<section id="section-id-556b7323-b136-42ff-a61c-6893feb00bc9" class="sppb-section sppb-hidden-lg sppb-hidden-md sppb-hidden-sm sppb-hidden-xs sppb-section-content-center" ><div class="sppb-row-container"><div class="sppb-row sppb-align-center"><div class="sppb-row-column  " id="column-wrap-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a"><div id="column-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a" class="sppb-column  " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-88f848ea-b41d-4d31-9900-23b39ad92ee5" class="sppb-addon-wrapper  addon-root-heading"><div id="sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5" class="clearfix sppb-element-lazy  "     ><div class="sppb-addon sppb-addon-header"><a  href="/"><h1 class="sppb-addon-title">Главная</h1></a></div><style type="text/css">#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5{
+box-shadow: 0 0 0 0 #FFFFFF;
+}#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5{
+padding-top: 10px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-left: 0px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5{}}
+@media (max-width: 991.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5{}}
+@media (max-width: 767.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5{}}
+@media (max-width: 575.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5{}}#sppb-addon-wrapper-88f848ea-b41d-4d31-9900-23b39ad92ee5{
+}#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: inherit;
+background-position:50% 50%;}
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 {
+background-image:url(/components/com_sppagebuilder/assets/images/lazyloading-placeholder.svg);}
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5.sppb-element-loaded {
+	background-image: url(/images/2025/04/24/menu-item-bg-lblue2.png);
+}
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-overlayer {
+				mix-blend-mode:normal;
+			}#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 a {
+	color: #FFFFFF;
+}
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 a:hover,
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 a:focus,
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 a:active {
+	color: #FFFFFF;
+}
+#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-title{
+}#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header a:hover .sppb-addon-title{text-decoration:underline;text-decoration-color:currentColor;transform:scale(1.05);display:inline-block;}</style><style type="text/css">#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{
+font-weight: 600;
+text-transform: uppercase;
+font-size: 16px;
+line-height: 16px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon.sppb-addon-header{
+text-align: center;
+}
+@media (max-width: 1199.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon.sppb-addon-header{}}
+@media (max-width: 991.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon.sppb-addon-header{}}
+@media (max-width: 767.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon.sppb-addon-header{}}
+@media (max-width: 575.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon.sppb-addon-header{}}#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+text-shadow: 1px 3px 5px   #484848;
+}
+@media (max-width: 1199.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-88f848ea-b41d-4d31-9900-23b39ad92ee5 .sppb-addon-header .sppb-addon-title{}}</style></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-fd5074b6-e270-453f-89f7-2057ef563daa"><div id="column-id-fd5074b6-e270-453f-89f7-2057ef563daa" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-33e480d2-5421-41bf-afa4-218b9cf6bd7d" class="sppb-addon-wrapper  addon-root-heading"><div id="sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d" class="clearfix sppb-element-lazy  "     ><div class="sppb-addon sppb-addon-header"><a  href="/proiskhozhdeniya"><h1 class="sppb-addon-title">Происхождения</h1></a></div><style type="text/css">#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d{
+box-shadow: 0 0 0 0 #FFFFFF;
+}#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d{
+padding-top: 10px;
+padding-right: 0px;
+padding-bottom: 15px;
+padding-left: 0px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d{}}
+@media (max-width: 991.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d{}}
+@media (max-width: 767.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d{}}
+@media (max-width: 575.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d{}}#sppb-addon-wrapper-33e480d2-5421-41bf-afa4-218b9cf6bd7d{
+}#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: inherit;
+background-position:50% 50%;}
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d {
+background-image:url(/components/com_sppagebuilder/assets/images/lazyloading-placeholder.svg);}
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d.sppb-element-loaded {
+	background-image: url(/images/2025/04/24/menu-item-bg-orange2.png);
+}
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-overlayer {
+				mix-blend-mode:normal;
+			}#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d a {
+	color: #FFFFFF;
+}
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d a:hover,
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d a:focus,
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d a:active {
+	color: #FFFFFF;
+}
+#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-title{
+}#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header a:hover .sppb-addon-title{text-decoration:underline;text-decoration-color:currentColor;transform:scale(1.05);display:inline-block;}</style><style type="text/css">#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{
+font-weight: 600;
+text-transform: uppercase;
+font-size: 16px;
+line-height: 16px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon.sppb-addon-header{
+text-align: center;
+}
+@media (max-width: 1199.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon.sppb-addon-header{}}
+@media (max-width: 991.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon.sppb-addon-header{}}
+@media (max-width: 767.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon.sppb-addon-header{}}
+@media (max-width: 575.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon.sppb-addon-header{}}#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+text-shadow: 1px 3px 5px   #484848;
+}
+@media (max-width: 1199.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-33e480d2-5421-41bf-afa4-218b9cf6bd7d .sppb-addon-header .sppb-addon-title{}}</style></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-6c8e2979-e379-4437-94a6-d91f941859fb"><div id="column-id-6c8e2979-e379-4437-94a6-d91f941859fb" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f" class="sppb-addon-wrapper  addon-root-heading"><div id="sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f" class="clearfix sppb-element-lazy  "     ><div class="sppb-addon sppb-addon-header"><a  href="/snaryazhenie"><h1 class="sppb-addon-title">Снаряжение</h1></a></div><style type="text/css">#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{
+box-shadow: 0 0 0 0 #FFFFFF;
+}#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{
+padding-top: 10px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-left: 0px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{}}
+@media (max-width: 991.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{}}
+@media (max-width: 767.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{}}
+@media (max-width: 575.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{}}#sppb-addon-wrapper-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f{
+}#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: inherit;
+background-position:50% 50%;}
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f {
+background-image:url(/components/com_sppagebuilder/assets/images/lazyloading-placeholder.svg);}
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f.sppb-element-loaded {
+	background-image: url(/images/2025/04/24/menu-item-bg-green2.png);
+}
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-overlayer {
+				mix-blend-mode:normal;
+			}#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f a {
+	color: #FFFFFF;
+}
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f a:hover,
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f a:focus,
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f a:active {
+	color: #FFFFFF;
+}
+#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-title{
+}#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header a:hover .sppb-addon-title{text-decoration:underline;text-decoration-color:currentColor;transform:scale(1.05);display:inline-block;}</style><style type="text/css">#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{
+font-weight: 600;
+text-transform: uppercase;
+font-size: 16px;
+line-height: 16px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon.sppb-addon-header{
+text-align: center;
+}
+@media (max-width: 1199.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon.sppb-addon-header{}}
+@media (max-width: 991.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon.sppb-addon-header{}}
+@media (max-width: 767.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon.sppb-addon-header{}}
+@media (max-width: 575.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon.sppb-addon-header{}}#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+text-shadow: 1px 3px 5px   #484848;
+}
+@media (max-width: 1199.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-e3b0f83b-a4cb-46e3-9272-d49a48cbf12f .sppb-addon-header .sppb-addon-title{}}</style></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977"><div id="column-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1dcdd929-47f7-4ed2-803d-b74080e5fc34" class="sppb-addon-wrapper  addon-root-heading"><div id="sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34" class="clearfix sppb-element-lazy  "     ><div class="sppb-addon sppb-addon-header"><a  href="/perki"><h1 class="sppb-addon-title">Перки</h1></a></div><style type="text/css">#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34{
+box-shadow: 0 0 0 0 #FFFFFF;
+}#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34{
+padding-top: 10px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-left: 0px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34{}}
+@media (max-width: 991.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34{}}
+@media (max-width: 767.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34{}}
+@media (max-width: 575.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34{}}#sppb-addon-wrapper-1dcdd929-47f7-4ed2-803d-b74080e5fc34{
+}#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: inherit;
+background-position:50% 50%;}
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 {
+background-image:url(/components/com_sppagebuilder/assets/images/lazyloading-placeholder.svg);}
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34.sppb-element-loaded {
+	background-image: url(/images/2025/04/24/menu-item-bg-pink.png);
+}
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-overlayer {
+				mix-blend-mode:normal;
+			}#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 a {
+	color: #FFFFFF;
+}
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 a:hover,
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 a:focus,
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 a:active {
+	color: #FFFFFF;
+}
+#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-title{
+}#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header a:hover .sppb-addon-title{text-decoration:underline;text-decoration-color:currentColor;transform:scale(1.05);display:inline-block;}</style><style type="text/css">#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{
+font-weight: 600;
+text-transform: uppercase;
+font-size: 16px;
+line-height: 16px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon.sppb-addon-header{
+text-align: center;
+}
+@media (max-width: 1199.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon.sppb-addon-header{}}
+@media (max-width: 991.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon.sppb-addon-header{}}
+@media (max-width: 767.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon.sppb-addon-header{}}
+@media (max-width: 575.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon.sppb-addon-header{}}#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+text-shadow: 1px 3px 5px   #484848;
+}
+@media (max-width: 1199.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-1dcdd929-47f7-4ed2-803d-b74080e5fc34 .sppb-addon-header .sppb-addon-title{}}</style></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df"><div id="column-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-328f4a26-aee8-485a-8984-b27592ee463e" class="sppb-addon-wrapper  addon-root-heading"><div id="sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e" class="clearfix sppb-element-lazy  "     ><div class="sppb-addon sppb-addon-header"><a  href="/bestiarij"><h1 class="sppb-addon-title">Бестиарий</h1></a></div><style type="text/css">#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e{
+box-shadow: 0 0 0 0 #FFFFFF;
+}#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e{
+color: #FFFFFF;
+padding-top: 15px;
+padding-right: 0px;
+padding-bottom: 15px;
+padding-left: 0px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e{}}
+@media (max-width: 991.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e{}}
+@media (max-width: 767.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e{}}
+@media (max-width: 575.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e{}}#sppb-addon-wrapper-328f4a26-aee8-485a-8984-b27592ee463e{
+}#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: inherit;
+background-position:50% 50%;}
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e {
+background-image:url(/components/com_sppagebuilder/assets/images/lazyloading-placeholder.svg);}
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e.sppb-element-loaded {
+	background-image: url(/images/2025/04/24/menu-item-bg-lblue.png);
+}
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-overlayer {
+				mix-blend-mode:normal;
+			}#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e a {
+	color: #FFFFFF;
+}
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e a:hover,
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e a:focus,
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e a:active {
+	color: #FFFFFF;
+}
+#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-title{
+}#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header a:hover .sppb-addon-title{text-decoration:underline;text-decoration-color:currentColor;transform:scale(1.05);display:inline-block;}</style><style type="text/css">#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{
+font-weight: 600;
+text-transform: uppercase;
+font-size: 16px;
+line-height: 16px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon.sppb-addon-header{
+text-align: center;
+}
+@media (max-width: 1199.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon.sppb-addon-header{}}
+@media (max-width: 991.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon.sppb-addon-header{}}
+@media (max-width: 767.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon.sppb-addon-header{}}
+@media (max-width: 575.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon.sppb-addon-header{}}#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+text-shadow: 1px 3px 5px   #484848;
+}
+@media (max-width: 1199.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-328f4a26-aee8-485a-8984-b27592ee463e .sppb-addon-header .sppb-addon-title{}}</style></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f"><div id="column-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-f7a32450-d8cb-45e4-947e-c0ad479f9a3b" class="sppb-addon-wrapper  addon-root-heading"><div id="sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b" class="clearfix sppb-element-lazy  "     ><div class="sppb-addon sppb-addon-header hover-underline"><a  href="/dopolneniya"><h1 class="sppb-addon-title">Дополнительно</h1></a></div><style type="text/css">#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{
+box-shadow: 0 0 0 0 #FFFFFF;
+}#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{
+color: #FFFFFF;
+padding-top: 15px;
+padding-right: 0px;
+padding-bottom: 15px;
+padding-left: 0px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{}}
+@media (max-width: 991.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{}}
+@media (max-width: 767.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{}}
+@media (max-width: 575.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{}}#sppb-addon-wrapper-f7a32450-d8cb-45e4-947e-c0ad479f9a3b{
+}#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: inherit;
+background-position:50% 50%;}
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b {
+background-image:url(/components/com_sppagebuilder/assets/images/lazyloading-placeholder.svg);}
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b.sppb-element-loaded {
+	background-image: url(/images/2025/04/24/menu-item-bg-green.png);
+}
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-overlayer {
+				mix-blend-mode:normal;
+			}#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b a {
+	color: #FFFFFF;
+}
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b a:hover,
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b a:focus,
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b a:active {
+	color: #FFFFFF;
+}
+#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-title{
+}#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header a:hover .sppb-addon-title{text-decoration:underline;text-decoration-color:currentColor;transform:scale(1.05);display:inline-block;}</style><style type="text/css">#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{
+font-weight: 600;
+text-transform: uppercase;
+font-size: 16px;
+line-height: 16px;
+}
+@media (max-width: 1199.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon.sppb-addon-header{
+text-align: center;
+}
+@media (max-width: 1199.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon.sppb-addon-header{}}
+@media (max-width: 991.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon.sppb-addon-header{}}
+@media (max-width: 767.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon.sppb-addon-header{}}
+@media (max-width: 575.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon.sppb-addon-header{}}#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+text-shadow: 1px 3px 5px   #484848;
+}
+@media (max-width: 1199.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 991.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 767.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}
+@media (max-width: 575.98px) {#sppb-addon-f7a32450-d8cb-45e4-947e-c0ad479f9a3b .sppb-addon-header .sppb-addon-title{}}</style></div></div></div></div></div></div></div></section><style type="text/css">.sp-page-builder .page-content #section-id-556b7323-b136-42ff-a61c-6893feb00bc9{box-shadow:0 0 0 0 #FFFFFF;}.sp-page-builder .page-content #section-id-556b7323-b136-42ff-a61c-6893feb00bc9{padding-top:5px;padding-right:0px;padding-bottom:5px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a{max-width:16.666667%;flex-basis:16.666667%;}@media (max-width:1199.98px) {#column-wrap-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:991.98px) {#column-wrap-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:767.98px) {#column-wrap-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-eaf3bfeb-63fe-4ca7-9fa0-3d9e3c2e1c7a{max-width:100%;flex-basis:100%;}}#column-id-fd5074b6-e270-453f-89f7-2057ef563daa{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-fd5074b6-e270-453f-89f7-2057ef563daa{max-width:16.666667%;flex-basis:16.666667%;}@media (max-width:1199.98px) {#column-wrap-id-fd5074b6-e270-453f-89f7-2057ef563daa{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:991.98px) {#column-wrap-id-fd5074b6-e270-453f-89f7-2057ef563daa{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:767.98px) {#column-wrap-id-fd5074b6-e270-453f-89f7-2057ef563daa{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-fd5074b6-e270-453f-89f7-2057ef563daa{max-width:100%;flex-basis:100%;}}#column-id-6c8e2979-e379-4437-94a6-d91f941859fb{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-6c8e2979-e379-4437-94a6-d91f941859fb{max-width:16.666667%;flex-basis:16.666667%;}@media (max-width:1199.98px) {#column-wrap-id-6c8e2979-e379-4437-94a6-d91f941859fb{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:991.98px) {#column-wrap-id-6c8e2979-e379-4437-94a6-d91f941859fb{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:767.98px) {#column-wrap-id-6c8e2979-e379-4437-94a6-d91f941859fb{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-6c8e2979-e379-4437-94a6-d91f941859fb{max-width:100%;flex-basis:100%;}}#column-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977{max-width:16.666667%;flex-basis:16.666667%;}@media (max-width:1199.98px) {#column-wrap-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:991.98px) {#column-wrap-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:767.98px) {#column-wrap-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-bb8e2f55-95d8-459f-8fb6-7a13ef8f7977{max-width:100%;flex-basis:100%;}}#column-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df{max-width:16.666667%;flex-basis:16.666667%;}@media (max-width:1199.98px) {#column-wrap-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:991.98px) {#column-wrap-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:767.98px) {#column-wrap-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-e7e3d9bb-55ab-4788-a742-a7082e3a48df{max-width:100%;flex-basis:100%;}}#column-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f{box-shadow:0 0 0 0 #FFFFFF;}#column-wrap-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f{max-width:16.666667%;flex-basis:16.666667%;}@media (max-width:1199.98px) {#column-wrap-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:991.98px) {#column-wrap-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f{max-width:16.666667%;flex-basis:16.666667%;}}@media (max-width:767.98px) {#column-wrap-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f{max-width:100%;flex-basis:100%;}}@media (max-width:575.98px) {#column-wrap-id-c0696eaa-85d9-49c7-ba75-2cab8ef4f57f{max-width:100%;flex-basis:100%;}}</style>	</div>
+</div></div></div></div></div></div>
+							</div>
+			</div>
+			
+	</section>
+
+<section id="sp-main-body" >
+
+										<div class="container">
+					<div class="container-inner">
+						
+	
+<div class="row">
+	
+<main id="sp-component" class="col-lg-12 ">
+	<div class="sp-column bg">
+		<div id="system-message-container" aria-live="polite">
+	</div>
+
+
+		
+		<div id="jf_results" role="region" aria-live="polite">
+                <div class="article-details " itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="ru-RU">
+	
+	
+					
+		
+		
+		<div class="article-can-edit d-flex flex-wrap justify-content-between">
+				</div>
+			
+		
+			
+		
+		
+	
+	<div itemprop="articleBody">
+		<div id="sp-page-builder" class="sp-page-builder sppb-article-page-wrapper"><div class="page-content"><section id="section-id-eda4035c-b3d8-4592-8f2a-eebcb6894e12" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4"><div id="column-id-a7b7384d-bfb8-4a5a-bc0f-902a4873f5e4" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-2f748e2f-e8be-4f12-a4c8-1da78f8b7282" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-2f748e2f-e8be-4f12-a4c8-1da78f8b7282" class="clearfix  "     ><div class="sppb-addon sppb-addon-text-block " ><div class="sppb-addon-content  "><p>Несмотря на все их героические образы, всю их помпезность и обстоятельства, Братство Стали не являются хорошими парнями. Они появляются в небе на Винтокрылах, одетые в сверкающие доспехи и несущие оружие, которое посылает вспышки света через поле битвы, чтобы выжечь зло из Пустошей - или они хотят, чтобы вы так думали. В то время как Братство считается гуманистами в некоторых частях Пустоши, в других его воспринимают как жадных до технологий грубиянов, больше озабоченных тем, чтобы заполучить в свои руки технологии старого мира и уничтожить местных супермутантов, чем помочь тем, кто в этом нуждается.</p><p>Многие члены выступали за миссию братства по обнаружению и изъятию утраченных довоенных технологий, когда местное руководство отклонилось от курса, невзирая на причину. Эти люди используют все накопленные ими знания, применяя их так, как они считают нужным. Некоторые даже продолжают миссию Братства самостоятельно. Многие становятся чем-то вроде странствующего инженера, используя свое знание о технологиях старого мира, чтобы помочь отремонтировать уцелевшие системы или помочь, где это возможно. Другие играют более активную роль, используя свою военную хватку и всю мощью лазерной винтовки, для защиты других от неконтролируемых технологий и тех, кто стремится их использовать.</p></div></div></div></div></div></div></div></div></div></section><section id="section-id-17478172-bbbd-4536-ab74-bed7960962a2" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303"><div id="column-id-8b1a3044-0c4f-41c5-8ac1-52ea7694f303" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-2e3bfaa1-e394-43c6-8253-0e47567fae01" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-2e3bfaa1-e394-43c6-8253-0e47567fae01" class="clearfix  "     ><div class="sppb-empty-space  clearfix"></div></div></div></div></div></div></div></div></section><section id="section-id-f0b9bd74-58b3-4c98-bd18-3550b62e5ec3" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-section-title center"><h3 class="sppb-title-heading">ВЫБЕРИТЕ КОМПЛЕКТ СНАРЯЖЕНИЯ</h3></div><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79"><div id="column-id-b5719d2b-ec5e-44e6-92c7-e845e6773d79" class="sppb-column  " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-GOM-Vr0ZHAvbPqaABJ6Er" class="sppb-addon-wrapper  addon-root-accordion"><div id="sppb-addon-GOM-Vr0ZHAvbPqaABJ6Er" class="clearfix  "     ><div class="sppb-addon sppb-addon-accordion "><div class="sppb-addon-content"><div class="sppb-panel-group"><div class="sppb-panel sppb-panel-custom"><button type="button" class="sppb-reset-button-styles sppb-w-full sppb-panel-heading active " id="sppb-ac-heading-GOM-Vr0ZHAvbPqaABJ6Er-key-0" aria-expanded="true" aria-controls="sppb-ac-content-GOM-Vr0ZHAvbPqaABJ6Er-key-0"><span class="sppb-panel-title" aria-label="ЭКС-РЫЦАРЬ"> ЭКС-РЫЦАРЬ </span></button><div id="sppb-ac-content-GOM-Vr0ZHAvbPqaABJ6Er-key-0" class="sppb-panel-collapse" aria-labelledby="sppb-ac-heading-GOM-Vr0ZHAvbPqaABJ6Er-key-0"><div class="sppb-panel-body"><div id="section-id-fc51601c-51d6-410f-bd44-9d0d305d1df0" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row sppb-nested-row"><div class="sppb-row-column  " id="column-wrap-id-78cc642b-fa50-41a8-a573-881059b6dd78"><div id="column-id-78cc642b-fa50-41a8-a573-881059b6dd78" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-b0e10eaf-87e1-4173-b4be-4cbc1a9256dd" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-b0e10eaf-87e1-4173-b4be-4cbc1a9256dd" class="clearfix  "     ><div class="sppb-addon sppb-addon-text-block " ><div class="sppb-addon-content  "><p>Более воинственно настроенный, чем некоторые изгои, вы отправились на пустошь с такой огневой мощью и защитой, какую только могли стащить, готовый встать между теми, кто нуждается в вашей помощи, и теми, кто ищет кровь.</p><ul><li>Лазерная винтовка и 8 + 6&nbsp;<img data-src="https://www.fallout-2d20.ru//images/CD.png" alt="Боевой Кубик" style="height:calc(1em + 15px); vertical-align:middle; display:inline-block;" class="lazyload" /> энергоячеек</li><li>Поношенная форма Братства Стали</li><li>Военная фляжка, заполненная водой</li><li>2 броска по таблице снаряжения Отступника</li><li>10 крышек</li></ul></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af"><div id="column-id-7cdeef99-1ee2-4f3b-b3d5-2e5fa04240af" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-18oeAQhA3OghWhqkJKYO7" class="sppb-addon-wrapper  addon-root-accordion"><div id="sppb-addon-18oeAQhA3OghWhqkJKYO7" class="clearfix  "     ><div class="sppb-addon sppb-addon-accordion "><div class="sppb-addon-content"><div class="sppb-panel-group"><div class="sppb-panel sppb-panel-custom"><button type="button" class="sppb-reset-button-styles sppb-w-full sppb-panel-heading active " id="sppb-ac-heading-18oeAQhA3OghWhqkJKYO7-key-0" aria-expanded="true" aria-controls="sppb-ac-content-18oeAQhA3OghWhqkJKYO7-key-0"><span class="sppb-panel-title" aria-label="ЭКС-ПИСЕЦ"> ЭКС-ПИСЕЦ </span></button><div id="sppb-ac-content-18oeAQhA3OghWhqkJKYO7-key-0" class="sppb-panel-collapse" aria-labelledby="sppb-ac-heading-18oeAQhA3OghWhqkJKYO7-key-0"><div class="sppb-panel-body"><div id="section-id-d4da0810-1133-447f-bb8e-0e65d64c6af9" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row sppb-nested-row"><div class="sppb-row-column  " id="column-wrap-id-19d61747-25b2-4b58-a4ad-6ad719d50389"><div id="column-id-19d61747-25b2-4b58-a4ad-6ad719d50389" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-8288035d-57d8-43de-8bd0-c4e23f588b38" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-8288035d-57d8-43de-8bd0-c4e23f588b38" class="clearfix  "     ><div class="sppb-addon sppb-addon-text-block " ><div class="sppb-addon-content  "><p>У вас есть склонность к механике, а не к военному ремеслу. Когда вы покинули Братство, вы взяли с собой самое ценное, что могли взять с собой, - ваши знания, и в сочетании с теми немногими мелочами, которые вам удалось тайно вывезти, вы сумели достаточно хорошо экипироваться, чтобы путешествовать по дорогам до сих пор.</p><ul><li>Лазерный пистолет и 8 + 4&nbsp;<img data-src="https://www.fallout-2d20.ru//images/CD.png" alt="Боевой Кубик" style="height:calc(1em + 15px); vertical-align:middle; display:inline-block;" class="lazyload" /> Энергоячеек</li><li>Поношенная броня писца Братства</li><li>Мультитул</li><li>3 броска по таблице снаряжения Отступника</li><li>15 крышек</li></ul></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-7106b6ed-deeb-4e8a-a716-bf2f3f2d7edb" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6"><div id="column-id-ef32bd6a-432c-4b1e-a7fd-40cc85cec1c6" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-5c5de147-0ba9-48b2-9af3-f6b4023c6377" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-5c5de147-0ba9-48b2-9af3-f6b4023c6377" class="clearfix  "     ><div class="sppb-addon sppb-addon-text-block " ><h2 class="sppb-addon-title">Таблица снаряжения Отступника</h2><div class="sppb-addon-content  "><p><br></p><table border="1" class="mce-item-table" style="width: 80%; margin-left: auto; margin-right: auto;" cellpadding="8" data-mce-style="width: 80%; margin-left: auto; margin-right: auto;"><thead><tr style="background-color: #000000; text-align: center;" data-mce-style="background-color: #000000; text-align: center;"><th scope="col" style="width: 40%;" data-mce-style="width: 40%;"><h6><span style="color: #ffffff;" data-mce-style="color: #ffffff;">D20</span></h6></th><th scope="col" style="width: 60%;" data-mce-style="width: 60%;"><h6><span style="color: #ffffff;" data-mce-style="color: #ffffff;">ЭФФЕКТ</span></h6></th></tr></thead><tbody><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td scope="row">1</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Элитный набор инструментов</td></tr><tr style="background-color: #ffdead; text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>2</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Фонарик</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>3</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Копия журнала "Чиним вещи"</td></tr><tr style="background-color: #ffdead; text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>4</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">1 Антибиотики</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>5</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Крышкомина</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>6</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Радио</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>7</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Нагрудник Боевой Брони</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>8</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Карта с тайником выживальщиков старого мира</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>9</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">1 Стимпак</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>10</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Наруч Боевой брони</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>11</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Понож Боевой брони</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>12</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Массив сенсоров</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>13</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Рюкзак, маленький</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>14</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Меч</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>15</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Лазерный мушкет</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>16</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">1 Антирадин</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>17</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Боевой дробовик</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>18</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Силовой кулак</td></tr><tr style="background-color: #fff8dc; text-align: center;" data-mce-style="background-color: #fff8dc; text-align: center;"><td>19</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Крепкий Шлем Боевой брони</td></tr><tr style="background-color: rgb(255, 222, 173); text-align: center;" data-mce-style="background-color: #ffdead; text-align: center;"><td>20</td><td style="text-align: left;" scope="row" data-mce-style="text-align: left;">Пип-Бой</td></tr></tbody></table></div></div></div></div></div></div></div></div></div></section></div></div>	</div>
+
+	
+	
+	
+			
+		
+	
+
+	
+			<div id="article-comments">
+	<div id="disqus_thread"></div>
+	<script>
+
+	
+	var disqus_shortname = 'fallout-2d20';
+	var disqus_config = function () {
+        this.page.url = "https://www.fallout-2d20.ru/proiskhozhdeniya/izgoj-bratstva";
+    };
+
+	(function() { 
+        var d = document, s = d.createElement('script');
+		s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+	})();
+	
+	</script>
+	<noscript>
+		Please enable JavaScript to view the 
+		<a href="https://disqus.com/?ref_noscript" rel="nofollow">
+			comments powered by Disqus.
+		</a>
+	</noscript>
+
+	</div>	</div>
+            </div>
+
+			</div>
+</main>
+</div>
+											</div>
+				</div>
+						
+	</section>
+
+<footer id="sp-footer" >
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-footer1" class="col-lg-6 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom164" class="mod-custom custom">
+    <div id="vk_groups"></div>
+<script type="text/javascript">
+  VK.Widgets.Group("vk_groups", {mode: 3, height: 400, color1: "FFFFFF", color2: "000000", color3: "5181B8"}, 224479500);
+</script></div>
+</div></div><span class="sp-copyright">© 2025 Fallout 2d20. Designed by ВКБ-Сервис.</span></div></div><div id="sp-footer2" class="col-lg-6 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom125" class="mod-custom custom">
+    <!-- Yandex.Metrika informer --> <a href="https://metrika.yandex.ru/stat/?id=90844052&amp;from=informer" target="_blank" rel="nofollow noopener"><img data-src="https://informer.yandex.ru/informer/90844052/3_0_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Яндекс.Метрика" class="ym-advanced-informer lazyload" style="width:88px; height:31px; border:0;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" data-cid="90844052" data-lang="ru" /></a> <!-- /Yandex.Metrika informer --></div>
+</div></div></div></div></div>
+							</div>
+			</div>
+			
+	</footer>
+			</div>
+		</div>
+
+		<!-- Off Canvas Menu -->
+		<div class="offcanvas-overlay"></div>
+		<!-- Rendering the offcanvas style -->
+		<!-- If canvas style selected then render the style -->
+		<!-- otherwise (for old templates) attach the offcanvas module position -->
+					<div class="offcanvas-menu">
+	<div class="d-flex align-items-center p-3 pt-4">
+				<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
+			<div class="burger-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</a>
+	</div>
+	
+	<div class="offcanvas-inner">
+		<div class="d-flex header-modules mb-3">
+							<div class="sp-module "><div class="sp-module-content">
+<form class="mod-finder js-finder-searchform form-search" action="/component/finder/search?Itemid=172" method="get" role="search">
+    <label for="mod-finder-searchword0" class="visually-hidden finder">Поиск</label><input type="text" name="q" id="mod-finder-searchword0" class="js-finder-search-query form-control" value="" placeholder="Введите текст...">
+            <input type="hidden" name="Itemid" value="172"></form>
+</div></div>			
+					</div>
+		
+					<div class="sp-module "><div class="sp-module-content"><ul class="menu nav-pills">
+<li class="item-172 default"><a href="/" >Правила игры</a></li><li class="item-359 active menu-deeper menu-parent"><a href="/proiskhozhdeniya" >Происхождения<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-360"><a href="/proiskhozhdeniya/vyzhivshij" >Выживший</a></li><li class="item-361"><a href="/proiskhozhdeniya/posvyashchjonnyj-v-bratstvo-stali" >Посвящённый в Братство Стали</a></li><li class="item-362"><a href="/proiskhozhdeniya/gul" >Гуль</a></li><li class="item-363"><a href="/proiskhozhdeniya/supermutant" >Супермутант</a></li><li class="item-364"><a href="/proiskhozhdeniya/obitatel-ubezhishcha" >Обитатель убежища</a></li><li class="item-365"><a href="/proiskhozhdeniya/mister-pomoshchnik" >Мистер Помощник</a></li><li class="item-366"><a href="/proiskhozhdeniya/shturmotron" >Штурмотрон</a></li><li class="item-367 current active"><a href="/proiskhozhdeniya/izgoj-bratstva" >Изгой Братства</a></li><li class="item-368"><a href="/proiskhozhdeniya/dikar" >Дикарь</a></li><li class="item-369"><a href="/proiskhozhdeniya/ditya-atoma" >Дитя Атома</a></li><li class="item-370"><a href="/proiskhozhdeniya/ten" >Тень</a></li><li class="item-590"><a href="/proiskhozhdeniya/zhitel-nkr" >Житель НКР</a></li><li class="item-601"><a href="/proiskhozhdeniya/minitmen" >Минитмен</a></li><li class="item-602"><a href="/proiskhozhdeniya/robomozg" >Робомозг</a></li><li class="item-603"><a href="/proiskhozhdeniya/protektron" >Протектрон</a></li></ul></li><li class="item-229"><a href="/perki" >ПЕРКИ</a></li><li class="item-103 menu-deeper menu-parent"><a href="/oruzhie" >Оружие<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-330 menu-deeper menu-parent"><a href="/oruzhie/strelkovoe-oruzhie" class="navbar">Стрелковое оружие<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-399"><a href="/oruzhie/strelkovoe-oruzhie/10-mm-pistolet" >10-мм Пистолет</a></li><li class="item-378"><a href="/oruzhie/strelkovoe-oruzhie/12-7-mm-pistolet" >12,7-мм пистолет</a></li><li class="item-379"><a href="/oruzhie/strelkovoe-oruzhie/12-7-mm-pistolet-pulemjot" >12,7-мм пистолет-пулемёт</a></li><li class="item-380"><a href="/oruzhie/strelkovoe-oruzhie/protivopekhotnyj-25-mm-granatomjot" >Противопехотный 25-мм гранатомёт</a></li><li class="item-381"><a href="/oruzhie/strelkovoe-oruzhie/krupnokalibernaya-snajperskaya-vintovka" >Крупнокалиберная снайперская винтовка</a></li><li class="item-382"><a href="/oruzhie/strelkovoe-oruzhie/samozaryadnaya-vintovka" >Самозарядная винтовка</a></li><li class="item-383"><a href="/oruzhie/strelkovoe-oruzhie/porokhovoj-mushketon" >Пороховой мушкетон</a></li><li class="item-384"><a href="/oruzhie/strelkovoe-oruzhie/porokhovoj-pistolet" >Пороховой пистолет</a></li><li class="item-385"><a href="/oruzhie/strelkovoe-oruzhie/porokhovoj-karabin" >Пороховой карабин</a></li><li class="item-386"><a href="/oruzhie/strelkovoe-oruzhie/pistolet-gaussa" >Пистолет Гаусса</a></li><li class="item-387"><a href="/oruzhie/strelkovoe-oruzhie/drobovik-gaussa" >Дробовик Гаусса </a></li><li class="item-388"><a href="/oruzhie/strelkovoe-oruzhie/karabin-s-rychazhnym-zatvorom" >Карабин с рычажным затвором</a></li><li class="item-389"><a href="/oruzhie/strelkovoe-oruzhie/ljogkij-pulemjot" >Лёгкий пулемёт</a></li><li class="item-390"><a href="/oruzhie/strelkovoe-oruzhie/pompovyj-drobovik" >Помповый дробовик</a></li><li class="item-391"><a href="/oruzhie/strelkovoe-oruzhie/radievyj-karabin" >Радиевый карабин</a></li><li class="item-392"><a href="/oruzhie/strelkovoe-oruzhie/snajperskaya-vintovka" >Снайперская винтовка</a></li><li class="item-393"><a href="/oruzhie/strelkovoe-oruzhie/granatomjot-m79" >Гранатомёт M79</a></li><li class="item-394"><a href="/oruzhie/strelkovoe-oruzhie/sten" >Стен</a></li><li class="item-395"><a href="/oruzhie/strelkovoe-oruzhie/pistolet-gulya" >Пистолет Гуля</a></li><li class="item-396"><a href="/oruzhie/strelkovoe-oruzhie/karabin-gulya" >Карабин Гуля</a></li><li class="item-397"><a href="/oruzhie/strelkovoe-oruzhie/karabin-gulya-2" >Инъекционный пистолет</a></li><li class="item-398"><a href="/oruzhie/strelkovoe-oruzhie/revolver-kalibra-44" >Револьвер Калибра .44</a></li><li class="item-400"><a href="/oruzhie/strelkovoe-oruzhie/signalnyj-pistolet" >Сигнальный пистолет</a></li><li class="item-401"><a href="/oruzhie/strelkovoe-oruzhie/shturmovaya-vintovka" >Штурмовая винтовка</a></li><li class="item-402"><a href="/oruzhie/strelkovoe-oruzhie/boevoj-karabin" >Боевой карабин</a></li><li class="item-403"><a href="/oruzhie/strelkovoe-oruzhie/karabin-gaussa" >Карабин гаусса</a></li><li class="item-404"><a href="/oruzhie/strelkovoe-oruzhie/tommi-gan" >ПП Томпсона</a></li><li class="item-405"><a href="/oruzhie/strelkovoe-oruzhie/boevoj-drobovik" >Боевой дробовик</a></li><li class="item-406"><a href="/oruzhie/strelkovoe-oruzhie/dvustvolnyj-drobovik" >Двуствольный дробовик</a></li><li class="item-407"><a href="/oruzhie/strelkovoe-oruzhie/gladkostvol-s-boltovym-zatvorom" >Гладкоствол с болтовым затвором</a></li><li class="item-408"><a href="/oruzhie/strelkovoe-oruzhie/gladkostvolnyj-revolver" >Гладкоствольный револьвер</a></li><li class="item-409"><a href="/oruzhie/strelkovoe-oruzhie/inektsionnyj-karabin" >Инъекционный карабин</a></li><li class="item-410"><a href="/oruzhie/strelkovoe-oruzhie/zheleznodorozhnaya-vintovka" >Железнодорожная винтовка</a></li><li class="item-411"><a href="/oruzhie/strelkovoe-oruzhie/9-mm-pistolet" >9-мм пистолет</a></li><li class="item-469"><a href="/oruzhie/strelkovoe-oruzhie/okhotnichya-vintovka" >Охотничья винтовка</a></li><li class="item-470"><a href="/oruzhie/strelkovoe-oruzhie/gladkostvol" >Гладкоствол</a></li><li class="item-471"><a href="/oruzhie/strelkovoe-oruzhie/revolver-magnum-kal-357" >Револьвер «Магнум» кал. 357</a></li><li class="item-488"><a href="/oruzhie/strelkovoe-oruzhie/pistolet-inektor" >Пистолет-инъектор</a></li><li class="item-624"><a href="/oruzhie/strelkovoe-oruzhie/abordazhnyj-pistolet" >Абордажный пистолет</a></li><li class="item-625"><a href="/oruzhie/strelkovoe-oruzhie/granatomet-so-slezotochivym-gazom" >Гранатомет со слезоточивым газом</a></li><li class="item-626"><a href="/oruzhie/strelkovoe-oruzhie/magnumnomikon" >Магнумномикон</a></li><li class="item-627"><a href="/oruzhie/strelkovoe-oruzhie/kitajskij-avtomat" >Китайский автомат</a></li></ul></li><li class="item-374 menu-deeper menu-parent"><a href="/oruzhie/atleticheskoe-oruzhie" class="navbar">Атлетическое оружие<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-467"><a href="/oruzhie/atleticheskoe-oruzhie/luk" >Лук</a></li><li class="item-468"><a href="/oruzhie/atleticheskoe-oruzhie/arbalet" >Арбалет</a></li></ul></li><li class="item-375 menu-deeper menu-parent"><a href="/oruzhie/metatelnoe-oruzhie" class="navbar">Метательное оружие<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-450"><a href="/oruzhie/metatelnoe-oruzhie/samodelnoe-lasso" >Самодельное лассо</a></li><li class="item-451"><a href="/oruzhie/metatelnoe-oruzhie/metatelnye-nozhi" >Метательные ножи</a></li><li class="item-452"><a href="/oruzhie/metatelnoe-oruzhie/tomagavk" >Томагавк</a></li><li class="item-453"><a href="/oruzhie/metatelnoe-oruzhie/drotik" >Дротик</a></li></ul></li><li class="item-376 menu-deeper menu-parent"><a href="/oruzhie/oruzhie-blizhnego-boya" class="navbar">Оружие ближнего боя<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-412"><a href="/oruzhie/oruzhie-blizhnego-boya/vykidnoj-nozh" >Выкидной нож</a></li><li class="item-413"><a href="/oruzhie/oruzhie-blizhnego-boya/dubinka" >Дубинка</a></li><li class="item-414"><a href="/oruzhie/oruzhie-blizhnego-boya/mech" >Меч</a></li><li class="item-415"><a href="/oruzhie/oruzhie-blizhnego-boya/boevoj-nozh" >Боевой нож </a></li><li class="item-416"><a href="/oruzhie/oruzhie-blizhnego-boya/machete" >Мачете</a></li><li class="item-417"><a href="/oruzhie/oruzhie-blizhnego-boya/potroshitel" >Потрошитель</a></li><li class="item-418"><a href="/oruzhie/oruzhie-blizhnego-boya/shish-kebab" >Шиш-кебаб</a></li><li class="item-419"><a href="/oruzhie/oruzhie-blizhnego-boya/bejsbolnaya-bita" >Бейсбольная бита</a></li><li class="item-421"><a href="/oruzhie/oruzhie-blizhnego-boya/alyuminievaya-bejsbolnaya-bita" >Алюминиевая бейсбольная бита</a></li><li class="item-422"><a href="/oruzhie/oruzhie-blizhnego-boya/dryn" >Дрын</a></li><li class="item-423"><a href="/oruzhie/oruzhie-blizhnego-boya/svintsovaya-truba" >Свинцовая труба </a></li><li class="item-424"><a href="/oruzhie/oruzhie-blizhnego-boya/razvodnoj-klyuch" >Разводной ключ </a></li><li class="item-425"><a href="/oruzhie/oruzhie-blizhnego-boya/bilyardnyj-kij" >Бильярдный кий </a></li><li class="item-426"><a href="/oruzhie/oruzhie-blizhnego-boya/skalka" >Скалка</a></li><li class="item-428"><a href="/oruzhie/oruzhie-blizhnego-boya/kuvalda" >Кувалда</a></li><li class="item-429"><a href="/oruzhie/oruzhie-blizhnego-boya/supermolot" >Супермолот</a></li><li class="item-430"><a href="/oruzhie/oruzhie-blizhnego-boya/balonnyj-klyuch" >Балонный ключ</a></li><li class="item-431"><a href="/oruzhie/oruzhie-blizhnego-boya/trost" >Трость</a></li><li class="item-432"><a href="/oruzhie/oruzhie-blizhnego-boya/bokserskaya-perchatka" >Боксерская перчатка</a></li><li class="item-433"><a href="/oruzhie/oruzhie-blizhnego-boya/perchatka-kogtya-smerti" >Перчатка когтя смерти</a></li><li class="item-434"><a href="/oruzhie/oruzhie-blizhnego-boya/kastet" >Кастет</a></li><li class="item-435"><a href="/oruzhie/oruzhie-blizhnego-boya/silovoj-kastet" >Силовой кастет</a></li><li class="item-436"><a href="/oruzhie/oruzhie-blizhnego-boya/klinok-shturmotrona" >Клинок штурмотрона</a></li><li class="item-437"><a href="/oruzhie/oruzhie-blizhnego-boya/avtotopor" >Автотопор</a></li><li class="item-438"><a href="/oruzhie/oruzhie-blizhnego-boya/ballisticheskij-kulak" >Баллистический кулак</a></li><li class="item-439"><a href="/oruzhie/oruzhie-blizhnego-boya/bolshoj-mech" >Большой меч</a></li><li class="item-440"><a href="/oruzhie/oruzhie-blizhnego-boya/elektroshoker" >Электрошокер</a></li><li class="item-441"><a href="/oruzhie/oruzhie-blizhnego-boya/benzopila" >Бензопила</a></li><li class="item-442"><a href="/oruzhie/oruzhie-blizhnego-boya/tanbo-smerti" >Танбо смерти</a></li><li class="item-443"><a href="/oruzhie/oruzhie-blizhnego-boya/perchatka-vytesnitel" >Перчатка-вытеснитель</a></li><li class="item-444"><a href="/oruzhie/oruzhie-blizhnego-boya/gitara-mech" >Гитара-меч</a></li><li class="item-445"><a href="/oruzhie/oruzhie-blizhnego-boya/tsirkulyarnyj-rezak-mistera-pomoshchnika" >Циркулярный резак Мистера Помощника </a></li><li class="item-446"><a href="/oruzhie/oruzhie-blizhnego-boya/universalnyj-topor" >Универсальный топор</a></li><li class="item-447"><a href="/oruzhie/oruzhie-blizhnego-boya/protonnyj-topor" >Протонный топор</a></li><li class="item-448"><a href="/oruzhie/oruzhie-blizhnego-boya/voennyj-baraban" >Военный барабан</a></li><li class="item-618"><a href="/oruzhie/oruzhie-blizhnego-boya/posokh-atoma" >Посох Атома</a></li><li class="item-619"><a href="/oruzhie/oruzhie-blizhnego-boya/shakhterskij-perforator" >Шахтерский перфоратор</a></li><li class="item-620"><a href="/oruzhie/oruzhie-blizhnego-boya/svarochnaya-gorelka" >Сварочная горелка</a></li></ul></li><li class="item-462 menu-deeper menu-parent"><a href="/oruzhie/vzryvchatka" >Взрывчатка<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-454"><a href="/oruzhie/vzryvchatka/bejsbolnaya-granata" >Бейсбольная граната</a></li><li class="item-455"><a href="/oruzhie/vzryvchatka/oskolochnaya-granata" >Осколочная граната </a></li><li class="item-456"><a href="/oruzhie/vzryvchatka/koktejl-molotova" >Коктейль молотова</a></li><li class="item-457"><a href="/oruzhie/vzryvchatka/yadernaya-granata" >Ядерная граната</a></li><li class="item-458"><a href="/oruzhie/vzryvchatka/plazmennaya-granata" >Плазменная граната </a></li><li class="item-459"><a href="/oruzhie/vzryvchatka/impulsnaya-granata" >Импульсная граната</a></li><li class="item-460"><a href="/oruzhie/vzryvchatka/kriogennaya-granata" >Криогенная граната</a></li><li class="item-473"><a href="/oruzhie/vzryvchatka/kryshkomina" >Крышкомина</a></li><li class="item-474"><a href="/oruzhie/vzryvchatka/oskolochnaya-mina" >Осколочная мина</a></li><li class="item-475"><a href="/oruzhie/vzryvchatka/yadernaya-mina" >Ядерная мина</a></li><li class="item-476"><a href="/oruzhie/vzryvchatka/plazmennaya-mina" >Плазменная мина</a></li><li class="item-477"><a href="/oruzhie/vzryvchatka/impulsnaya-mina" >Импульсная мина</a></li><li class="item-478"><a href="/oruzhie/vzryvchatka/kriomina" >Криомина</a></li><li class="item-479"><a href="/oruzhie/vzryvchatka/detonator" >Детонатор</a></li><li class="item-480"><a href="/oruzhie/vzryvchatka/dinamit" >Динамит</a></li><li class="item-481"><a href="/oruzhie/vzryvchatka/svyazka-dinamita" >Связка динамита</a></li><li class="item-482"><a href="/oruzhie/vzryvchatka/svetoshumovaya-granata" >Светошумовая граната</a></li><li class="item-483"><a href="/oruzhie/vzryvchatka/umnaya-oskolochnaya-granata" >«Умная» осколочная граната</a></li><li class="item-484"><a href="/oruzhie/vzryvchatka/plastikovaya-vzryvchatka" >Пластиковая взрывчатка</a></li><li class="item-485"><a href="/oruzhie/vzryvchatka/porokhovoj-zaryad" >Пороховой заряд</a></li><li class="item-486"><a href="/oruzhie/vzryvchatka/dymovaya-granata" >Дымовая граната</a></li></ul></li><li class="item-525 menu-deeper menu-parent"><a href="/oruzhie/energooruzhie" >Энергооружие<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-526"><a href="/oruzhie/energooruzhie/lazernyj-mushket" >Лазерный мушкет </a></li><li class="item-527"><a href="/oruzhie/energooruzhie/lazernyj-pistolet" >Лазерный пистолет</a></li><li class="item-528"><a href="/oruzhie/energooruzhie/lazernyj-pistolet-2" >Плазменный пистолет</a></li><li class="item-529"><a href="/oruzhie/energooruzhie/gamma-pushka" >Гамма-пушка</a></li><li class="item-530"><a href="/oruzhie/energooruzhie/atomajzer-inoplanetyan" >Атомайзер инопланетян</a></li><li class="item-531"><a href="/oruzhie/energooruzhie/dezintegrator-chuzhogo" >Дезинтегратор Чужого</a></li><li class="item-532"><a href="/oruzhie/energooruzhie/elektrosvarka" >Электросварка</a></li><li class="item-533"><a href="/oruzhie/energooruzhie/golovnoj-lazer-shturmotrona" >Головной лазер штурмотрона</a></li><li class="item-534"><a href="/oruzhie/energooruzhie/mikrovolnovyj-emitter" >Микроволновый эмиттер</a></li><li class="item-535"><a href="/oruzhie/energooruzhie/karabin-tesly" >Карабин Теслы</a></li><li class="item-536"><a href="/oruzhie/energooruzhie/kisloplyuj" >Кислоплюй</a></li><li class="item-537"><a href="/oruzhie/energooruzhie/blaster-chuzhikh" >Бластер Чужих </a></li><li class="item-542"><a href="/oruzhie/energooruzhie/gipnotron" >Гипнотрон</a></li><li class="item-622"><a href="/oruzhie/energooruzhie/plazmakaster" >Плазмакастер</a></li><li class="item-623"><a href="/oruzhie/energooruzhie/lazernoe-ruzhjo-wattz-2000" >Лазерное ружьё WATTZ 2000 </a></li></ul></li><li class="item-541 menu-deeper menu-parent"><a href="/oruzhie/tyazhjoloe-oruzhie" >Тяжёлое оружие<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-572"><a href="/oruzhie/tyazhjoloe-oruzhie/tolstyak" >Толстяк</a></li><li class="item-573"><a href="/oruzhie/tyazhjoloe-oruzhie/ognemet" >Огнемет</a></li><li class="item-574"><a href="/oruzhie/tyazhjoloe-oruzhie/gatling-lazer" >Гатлинг-лазер</a></li><li class="item-575"><a href="/oruzhie/tyazhjoloe-oruzhie/tyazhjolyj-insinerator" >Тяжёлый инсинератор</a></li><li class="item-576"><a href="/oruzhie/tyazhjoloe-oruzhie/khlamotron" >Хламотрон</a></li><li class="item-577"><a href="/oruzhie/tyazhjoloe-oruzhie/minigan" >Миниган</a></li><li class="item-578"><a href="/oruzhie/tyazhjoloe-oruzhie/raketnaya-ustanovka" >Ракетная установка</a></li><li class="item-604"><a href="/oruzhie/tyazhjoloe-oruzhie/pulemjot-kalibra-50" >Пулемёт калибра .50</a></li><li class="item-605"><a href="/oruzhie/tyazhjoloe-oruzhie/avtomaticheskij-granatomjot" >Автоматический гранатомёт</a></li><li class="item-606"><a href="/oruzhie/tyazhjoloe-oruzhie/pushka-robota" >Пушка робота</a></li><li class="item-607"><a href="/oruzhie/tyazhjoloe-oruzhie/gatling" >Гатлинг</a></li><li class="item-608"><a href="/oruzhie/tyazhjoloe-oruzhie/gatling-plazma" >Гатлинг-плазма</a></li><li class="item-609"><a href="/oruzhie/tyazhjoloe-oruzhie/minigan-gaussa" >Миниган Гаусса</a></li><li class="item-610"><a href="/oruzhie/tyazhjoloe-oruzhie/plazmakaster" >Плазмакастер</a></li><li class="item-611"><a href="/oruzhie/tyazhjoloe-oruzhie/pushka-tesly" >Пушка Теслы</a></li><li class="item-612"><a href="/oruzhie/tyazhjoloe-oruzhie/zalp" >Залп</a></li><li class="item-613"><a href="/oruzhie/tyazhjoloe-oruzhie/kriolyator" >Криолятор </a></li><li class="item-614"><a href="/oruzhie/tyazhjoloe-oruzhie/garpunomjot" >Гарпуномёт</a></li><li class="item-615"><a href="/oruzhie/tyazhjoloe-oruzhie/sten-inektor" >Стен-Инъектор</a></li><li class="item-616"><a href="/oruzhie/tyazhjoloe-oruzhie/granatomet-so-slezotochivym-gazom" >Гранатомет со слезоточивым газом</a></li><li class="item-617"><a href="/oruzhie/tyazhjoloe-oruzhie/yudzhin" >Юджин</a></li></ul></li></ul></li><li class="item-336"><a href="/karty-oruzhiya-b" >Карты оружия β</a></li><li class="item-104 menu-deeper menu-parent"><a href="/bronya" >БРОНЯ<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-629 menu-deeper menu-parent"><a href="/bronya/silovaya-bronya" >Силовая броня<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-630"><a href="/bronya/silovaya-bronya/ekskavatornaya-silovaya-bronya" >Экскаваторная силовая броня</a></li><li class="item-631"><a href="/bronya/silovaya-bronya/silovaya-bronya-t-45" >Силовая броня Т-45</a></li></ul></li></ul></li><li class="item-106"><a href="/dopolneniya" >РАЗНОЕ</a></li><li class="item-186"><a href="/stsenarii" >СЦЕНАРИИ</a></li><li class="item-321"><a href="/generator-dobychi" >ДОБЫЧА</a></li><li class="item-490 menu-deeper menu-parent"><a href="/eda" >Еда<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-491"><a href="/eda/mutafrukt" >Мутафрукт</a></li><li class="item-492"><a href="/eda/makarony-s-syrom-blamko" >Макароны с  Сыром &quot;БламКо&quot;</a></li><li class="item-493"><a href="/eda/myaso-dutnya" >Мясо Дутня</a></li><li class="item-494"><a href="/eda/myaso-gnusa" >Мясо Гнуса</a></li><li class="item-495"><a href="/eda/stejk-iz-gnusa" >Стейк из Гнуса</a></li><li class="item-496"><a href="/eda/myaso-bramina" >Мясо Брамина</a></li><li class="item-497"><a href="/eda/mozgovoj-grib" >Мозговой Гриб</a></li><li class="item-498"><a href="/eda/sobachi-konservy" >Собачьи Консервы</a></li><li class="item-499"><a href="/eda/morkov" >Морковь</a></li><li class="item-500"><a href="/eda/prigotovlennoe-myaso-bolotnika-s-myagkim-pantsirem" >Приготовленное мясо болотника с мягким панцирем</a></li><li class="item-501"><a href="/eda/kukuruza" >Кукуруза</a></li><li class="item-502"><a href="/eda/cram" >СРАМ</a></li><li class="item-503"><a href="/eda/khrustyashchie-kusochki-belki" >Хрустящие кусочки белки</a></li><li class="item-504"><a href="/eda/nalivnye-yabloki" >Наливные яблоки</a></li><li class="item-505"><a href="/eda/yajtso-kogtya-smerti" >Яйцо Когтя Смерти</a></li><li class="item-506"><a href="/eda/omlet-iz-yaits-kogtya-smerti" >Омлет из яиц Когтя смерти</a></li><li class="item-507"><a href="/eda/stejk-iz-kogtya-smerti" >Стейк из Когтя смерти</a></li><li class="item-508"><a href="/eda/keksy-veselye-rebyata" >Кексы &quot;Веселые ребята&quot; </a></li><li class="item-509"><a href="/eda/pishchevaya-pasta" >Пищевая паста</a></li><li class="item-510"><a href="/eda/tykva" >Тыква</a></li><li class="item-511"><a href="/eda/radtarakan-gril" >Радтаракан гриль</a></li><li class="item-512"><a href="/eda/radolen-gril" >Радолень гриль</a></li><li class="item-513"><a href="/eda/zhevatelnye-pastilki" >Жевательные пастилки</a></li><li class="item-514"><a href="/eda/kusochki-iguany" >Кусочки игуаны</a></li><li class="item-515"><a href="/eda/iguana-na-palochke" >Игуана на палочке</a></li><li class="item-516"><a href="/eda/sup-iz-iguany" >Суп из игуаны</a></li><li class="item-517"><a href="/eda/pyure-bystrogo-prigotovleniya" >Пюре быстрого приготовления</a></li><li class="item-518"><a href="/eda/produktovyj-nabor-instituta" >Продуктовый набор Института</a></li><li class="item-519"><a href="/eda/dynya" >Дыня</a></li><li class="item-520"><a href="/eda/keks-iz-bolotnika" >Кекс из Болотника</a></li><li class="item-521"><a href="/eda/yajtso-bolotnika" >Яйцо болотника</a></li><li class="item-522"><a href="/eda/omlet-iz-yajtsa-bolotnika" >Омлет из яйца Болотника</a></li><li class="item-523"><a href="/eda/stejk-iz-matki-bolotnika" >Стейк из Матки Болотника</a></li><li class="item-547"><a href="/eda/myaso-kogtya-smerti" >Мясо когтя смерти</a></li><li class="item-548"><a href="/eda/myaso-bolotnika" >Мясо Болотника</a></li><li class="item-549"><a href="/eda/sobachatina" >Собачатина</a></li><li class="item-550"><a href="/eda/otbivnaya-iz-gonchej-mutanta" >Отбивная из гончей мутанта</a></li><li class="item-551"><a href="/eda/myaso-gonchej-mutanta" >Мясо гончей мутанта</a></li><li class="item-553"><a href="/eda/otbivnye-iz-dvornyagi" >Отбивные из дворняги</a></li><li class="item-554"><a href="/eda/chashka-s-lapshoj" >Чашка с лапшой</a></li><li class="item-555"><a href="/eda/idealno-sokhranivshijsya-pirog" >Идеально сохранившийся пирог</a></li><li class="item-556"><a href="/eda/svinina-s-bobami" >Свинина с бобами</a></li><li class="item-557"><a href="/eda/kartofelnye-chipsy" >Картофельные чипсы</a></li><li class="item-552"><a href="/eda/zapechennyj-duten" >Запеченный дутень</a></li></ul></li><li class="item-539 menu-deeper menu-parent"><a href="/obzory-ofitsialnykh-stsenariev" >Обзоры официальных сценариев<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-540"><a href="/obzory-ofitsialnykh-stsenariev/obzor-priklyucheniya-v-bezdnu" >Обзор приключения &quot;В бездну&quot;</a></li></ul></li><li class="item-543 menu-deeper menu-parent"><a href="/bestiarij" >Бестиарий<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-544 menu-deeper menu-parent"><a href="/bestiarij/zhivotnye-i-nasekomye" >Животные и насекомые<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-545"><a href="/bestiarij/zhivotnye-i-nasekomye/gnus" >Гнус</a></li><li class="item-546"><a href="/bestiarij/zhivotnye-i-nasekomye/duten" >Дутень</a></li><li class="item-558"><a href="/bestiarij/zhivotnye-i-nasekomye/bramin" >Брамин</a></li><li class="item-559"><a href="/bestiarij/zhivotnye-i-nasekomye/kogot-smerti" >Коготь смерти</a></li><li class="item-560"><a href="/bestiarij/zhivotnye-i-nasekomye/sobaka" >Собака</a></li><li class="item-561"><a href="/bestiarij/zhivotnye-i-nasekomye/dvornyaga" >Дворняга</a></li><li class="item-562"><a href="/bestiarij/zhivotnye-i-nasekomye/lichinka-bolotnika" >Личинка болотника</a></li><li class="item-563"><a href="/bestiarij/zhivotnye-i-nasekomye/bolotnik" >Болотник</a></li><li class="item-564"><a href="/bestiarij/zhivotnye-i-nasekomye/bolotnik-okhotnik" >Болотник охотник</a></li><li class="item-565"><a href="/bestiarij/zhivotnye-i-nasekomye/matka-bolotnikov" >Матка болотников</a></li><li class="item-566"><a href="/bestiarij/zhivotnye-i-nasekomye/krotokrys" >Кротокрыс</a></li><li class="item-567"><a href="/bestiarij/zhivotnye-i-nasekomye/gonchaya-mutant" >Гончая-мутант</a></li><li class="item-568"><a href="/bestiarij/zhivotnye-i-nasekomye/radtarakan" >Радтаракан</a></li><li class="item-569"><a href="/bestiarij/zhivotnye-i-nasekomye/radskorpion" >Радскорпион</a></li><li class="item-570"><a href="/bestiarij/zhivotnye-i-nasekomye/radolen" >Радолень</a></li><li class="item-571"><a href="/bestiarij/zhivotnye-i-nasekomye/zhalokryl" >Жалокрыл</a></li><li class="item-579"><a href="/bestiarij/zhivotnye-i-nasekomye/yao-guaj" >Яо Гуай</a></li></ul></li><li class="item-637 menu-deeper menu-parent"><a href="/bestiarij/raiders" >Рейдеры<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-638"><a href="/bestiarij/raiders/rejder" >Рейдер</a></li><li class="item-639"><a href="/bestiarij/raiders/rejder-boss" >Рейдер-Босс</a></li><li class="item-640"><a href="/bestiarij/raiders/rejder-psikh" >Рейдер-псих</a></li><li class="item-641"><a href="/bestiarij/raiders/rejder-padalshchik" >Рейдер-падальщик</a></li><li class="item-642"><a href="/bestiarij/raiders/rejder-veteran" >Рейдер-ветеран</a></li></ul></li><li class="item-658 menu-deeper menu-parent"><a href="/bestiarij/supermutanty" >Супермутанты<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-659"><a href="/bestiarij/supermutanty/supermutant" >Супермутант</a></li></ul></li></ul></li></ul>
+</div></div>		
+		
+		
+		
+					
+				
+		<!-- custom module position -->
+		
+	</div>
+</div>				
+
+		
+		
+
+		<!-- Go to top -->
+					<a href="#" class="sp-scroll-up" aria-label="Scroll Up"><span class="fas fa-angle-up" aria-hidden="true"></span></a>
+					</body>
+</html>
